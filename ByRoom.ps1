@@ -1,16 +1,16 @@
 ######
 #
-#  Swordfish Lab Restart Script
+#  Lab Restart Script
 #
 #  author: Andrew Gou
 #
-#  support: sophie.ryan@uts.edu.au
+#  support: sophie.ryan@uts.edu.au & daniel.angeloni@uts.edu.au
 #
 ###### Set-ExecutionPolicy RemoteSigned -Scope Process
 
 # Machine name text file directory and error log directory, change as needed.
-$fileDir = "C:\Swordfish_restart_script\LAB FILES\"
-$errorDir = "C:\Swordfish_restart_script\Errors\"
+$fileDir = "Labs\"
+$errorDir = "Errors\"
 $date = Get-Date -Format "dd.MM.yy"
 
 # Create error log file
