@@ -8,13 +8,3 @@ This script must be used from a UTS computer, either in-person or via Remote Des
 Usage from personal computers via VPN is currently not supported.
 
 Follow the Confluence guide for more information on setting up and using the script on your computer.
-
-## Credits
-
-| Andrew Gou     | Author         |
-| -------------- | -------------- |
-| Sophie Ryan    | Prototyping, Maintenance    |
-| Kevin Casareo  | Prototyping    |
-| Kim Robinson   | Advocate       |
-| Domenic Napoli | Special thanks |
-| Daniel Angeloni| Author #2      |
